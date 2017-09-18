@@ -1,4 +1,4 @@
-# ILoveZappos
+# Zappos Application
 
 A simple android application that connects to a remote site,retrieves and displays results based on the user input.
 
